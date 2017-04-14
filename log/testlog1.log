@@ -1,0 +1,20 @@
+2017-04-13 18:18:33,514 [main] INFO com.hart.testStepDefinitions.TestBaseSetup - Setting browser and appURL
+2017-04-13 18:18:33,517 [main] INFO utils.CommonUtils - Launching Firefox browser..
+2017-04-13 18:18:36,517 [main] INFO utils.CommonUtils - Navigating to page: https://app-yellow.hart.com
+2017-04-13 18:18:36,517 [main] INFO utils.CommonUtils - Navigating to: https://app-yellow.hart.com
+2017-04-13 18:18:38,246 [main] INFO utils.CommonUtils - Verifying User Login
+2017-04-13 18:18:38,658 [main] INFO utils.CommonUtils - User :: Password = code.challenge@hart.com :: Challenge1!
+2017-04-13 18:18:38,825 [main] INFO utils.CommonUtils - Verifying Login Page Title
+2017-04-13 18:18:38,834 [main] INFO utils.CommonUtils - The title of the page is: Hart - Login
+
+
+2017-04-13 18:18:38,843 [main] INFO utils.CommonUtils - Login Page Title: Hart - Login
+2017-04-13 18:18:38,844 [main] INFO utils.CommonUtils - Verifying Login Page Title
+2017-04-13 18:18:38,864 [main] INFO utils.CommonUtils - The title of the page is: Hart - Login
+
+
+2017-04-13 18:18:38,869 [main] INFO utils.CommonUtils - Login Page Title: Hart - Login
+2017-04-13 18:18:38,882 [main] INFO utils.CommonUtils - The title of the page is: Hart - Login
+
+
+2017-04-13 18:18:38,892 [main] INFO com.hart.testStepDefinitions.TestBaseSetup - shutting down driver
